@@ -1,4 +1,6 @@
-# Farmer's-Market
+## Farmers-Market #
+#### Price yourself, Raise yourself.
+    
 A clean website for the farmers to sell their goods.  
   
  **Home Page**
